@@ -2,7 +2,7 @@ Zelda
 =====
 
 This could become a 3d clone of the amazing game "The Legend Of Zelda: A Link to the Past"
-The Legend of Zeld is one of my amazing game where I can spend my lazy Sunday. ^^
+The Legend of Zelda is one of my amazing game where I can spend my lazy Sunday. ^^
 
 ## Screenshots
 I took many graphics/textures from [s-cape](http://www.s-cape.biz/), watch his work at [youtube](https://www.youtube.com/watch?v=lm8XSdMdJ3w). I also learn an interesting platform and imaginary as I screen-shot the scene. Look [here](http://www.forexchef.de/dab-bank-erfahrungen/).
